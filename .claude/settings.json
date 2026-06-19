@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Remove-Item \"c:\\\\Users\\\\nsalazar\\\\Documents\\\\UTN\\\\OrganizacionEmpresarial\\\\TrabajoIntegrador\\\\chatbot-cabanas\\\\.env.example\")",
+      "PowerShell(Remove-Item \"c:\\\\Users\\\\nsalazar\\\\Documents\\\\UTN\\\\OrganizacionEmpresarial\\\\TrabajoIntegrador\\\\chatbot-cabanas\\\\.env.example\" -Confirm:$false)"
+    ]
+  }
+}
